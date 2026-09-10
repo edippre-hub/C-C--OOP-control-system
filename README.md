@@ -1,4 +1,6 @@
 # C_C++_OOP-control-system
+A C/C++ object‑oriented control & monitoring framework for simulated aerospace Ground Support Equipment (GSE).
+
 C/C++ object-oriented control and monitoring framework for simulated aerospace ground support equipment.
 Build a small Ground Support Equipment (GSE) Control System that:
 
