@@ -14,6 +14,20 @@ Includes a C-style module to show comfort with both C and C++
 
 Provides a command-line interface to run test scenarios (startup, shutdown, fault injection)
 
+## Features
+- C++ OOP design
+- Abstract interfaces (IReadable, IControllable)
+- Polymorphic hardware devices
+- Legacy C module integration
+- CLI test controller
+
+## Build
+```bash
+mkdir build && cd build
+cmake ..
+make
+./gse_controller
+
 C_C++_OOP-control-system/
 ├─ src/
 │  ├─ main.cpp
